@@ -2,5 +2,5 @@
 
 print("Hola :)")
 print("Este cambio de hizo en linea")
-print("Para demostrar el uso del editor en linea de GitHub"
+print("Para demostrar el uso del editor en linea de GitHub")
       
