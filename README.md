@@ -51,3 +51,15 @@ F | F | F
 
 # emojis
 :+1: :camel: :metal: :grin: 💩
+
+# un pedacito de codigo en pyhton
+```python
+print("Este es un ejmplo de codig en pyhton")
+a = 5
+b = 3
+c = a + b
+print(c)
+```
+``` powershell
+Remove-Item -recurse copia
+```
