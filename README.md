@@ -48,3 +48,6 @@ V | F | V
 F | V | V
 F | F | F
 
+
+# emojis
+:+1: :camel: :metal: :grin: 💩
