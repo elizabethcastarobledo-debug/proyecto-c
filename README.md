@@ -28,13 +28,23 @@ Lista multiple niveles:
 * jupiter
   * 4 lunas
  
-#Lista de chequeo: como obtener el pasaporte
+# Lista de chequeo: como obtener el pasaporte
 - [X] Sacar cita
 - [X] Pagar los derechos
 - [X] ir a la oficina a la cita
 - [ ] Esperar a que expidan el pasaporte
   
-#Creacion de una cita
+# Creacion de una cita
 ObiWan Kenobi dijo:
 > La fuerza estara contigo...
 > Siempre
+
+# Crear una tabla 
+
+A | B | A XOR B
+--|---|---------
+V | V | F
+V | F | V
+F | V | V
+F | F | F
+
