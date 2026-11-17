@@ -29,8 +29,8 @@ Lista multiple niveles:
   * 4 lunas
  
 #Lista de chequeo: como obtener el pasaporte
-- [X ] Sacar cita
-- [X ] Pagar los derechos
-- [X ] ir a la oficina a la cita
-- [ X] Esperar a que expidan el pasaporte
+- [X] Sacar cita
+- [X] Pagar los derechos
+- [X] ir a la oficina a la cita
+- [ ] Esperar a que expidan el pasaporte
   
