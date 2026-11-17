@@ -11,3 +11,13 @@ Esto también es texto en _en cursivsa_
 Esto es texto **en negrilla**
 Esto tmb es texto __en negrilla__
 Y *se pueden  __combinar__ de esta manera*
+Esta es una lista de colores:
+*Rojo
+*Verde
+*Naranja
+*Azul
+
+Esta es una lista numerada:
+1.fiat
+2. volvo
+3. Renault
